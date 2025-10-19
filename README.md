@@ -1,4 +1,8 @@
-# Private Repo for the BPS Project
+# Stepwise Fine and Gray: Subject-Specific Variable Selection
+Accompanying the paper
+> Shen, X., Elmer, J. &amp; Chen, G.H.. (2025). Stepwise Fine and Gray: Subject-Specific Variable Selection Shows When Hemodynamic Data Improves Prognostication of Comatose Post-Cardiac Arrest Patients. <i>Proceedings of the 10th Machine Learning for Healthcare Conference</i>, in <i>Proceedings of Machine Learning Research</i> 298 Available from https://proceedings.mlr.press/v298/shen25a.html.
+
+
 ## Competing Risks Experiments
 
 - Run the experiment results on competing risks
